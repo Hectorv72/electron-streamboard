@@ -1,0 +1,14 @@
+{
+  "name": "electron-streamboard",
+  "version": "1.0.0",
+  "description": "StreamBoard con Electronjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Hector Valdez",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^20.0.2"
+  }
+}
